@@ -1,0 +1,179 @@
+[custom23]
+action='variety --resume'
+binding='<Alt>Down'
+name='variety --resume'
+
+[custom7]
+action='mate-terminal'
+binding='<Mod4>Return'
+name='mate-terminal'
+
+[custom11]
+action='caja --no-desktop /home/erik'
+binding='<Primary><Alt>b'
+name='caja'
+
+[custom25]
+action='inkscape'
+binding='<Mod4>F3'
+name='inkscape'
+
+[custom9]
+action='pavucontrol'
+binding='<Primary><Alt>u'
+name='pavucontrol'
+
+[custom13]
+action='inkscape'
+binding='<Primary><Alt>i'
+name='inkscape'
+
+[custom27]
+action='meld'
+binding='<Mod4>F5'
+name='meld'
+
+[custom30]
+action='firefox'
+binding='<Primary><Alt>f'
+name='firefox'
+
+[custom0]
+action='mate-system-monitor'
+binding='<Primary><Shift>Escape'
+name='mate-system-monitor'
+
+[custom29]
+action='virtualbox'
+binding='<Mod4>F7'
+name='virtualbox'
+
+[custom15]
+action='vivaldi-stable'
+binding='<Primary><Alt>v'
+name='vivaldi'
+
+[custom32]
+action='caja --no-desktop /home/erik'
+binding='<Mod4>F8'
+name='caja'
+
+[custom2]
+action='variety -n'
+binding='<Alt>n'
+name='next wallpaper'
+
+[custom17]
+action='vivaldi-stable'
+binding='<Mod4>F1'
+name='vivaldi'
+
+[custom20]
+action='variety -n'
+binding='<Alt>Right'
+name='variety -n'
+
+[custom34]
+action='spotify'
+binding='<Mod4>F10'
+name='spotify'
+
+[custom4]
+action='variety -f'
+binding='<Alt>f'
+name='wallpaper favorite'
+
+[custom19]
+action='gnome-screenshot -i'
+binding='<Primary>Print'
+name='gnome-screenshot interactive'
+
+[custom22]
+action='variety --pause'
+binding='<Alt>Up'
+name='variety --pause'
+
+[custom6]
+action="dmenu_run -i -nb '#191919' -nf '#efb813' -sb '#efb813' -sf '#191919' -fn 'NotoMonoRegular:bold:pixelsize=14'"
+binding='<Shift><Mod4>d'
+name='dmenu'
+
+[custom10]
+action='xkill'
+binding='<Mod4>Escape'
+name='xkill'
+
+[custom24]
+action='atom'
+binding='<Mod4>F2'
+name='atom'
+
+[custom8]
+action='mate-control-center'
+binding='<Primary><Alt>m'
+name='mate-control-center'
+
+[custom12]
+action='subl3'
+binding='<Primary><Alt>w'
+name='sublime text'
+
+[custom26]
+action='gimp'
+binding='<Mod4>F4'
+name='gimp'
+
+[custom14]
+action='gimp'
+binding='<Primary><Alt>g'
+name='gimp'
+
+[custom28]
+action='vlc'
+binding='<Mod4>F6'
+name='vlc'
+
+[custom31]
+action='catfish'
+binding='<Primary><Alt>c'
+name='catfish'
+
+[custom1]
+action='variety -t'
+binding='<Alt>t'
+name='variety trash wallpaper'
+
+[custom16]
+action='evolution'
+binding='<Primary><Alt>e'
+name='evolution'
+
+[custom33]
+action='evolution'
+binding='<Mod4>F9'
+name='evolution'
+
+[custom3]
+action='variety -p'
+binding='<Alt>p'
+name='previous wallpaper'
+
+[custom18]
+action='spotify'
+binding='<Primary><Alt>s'
+name='spotify'
+
+[custom21]
+action='variety -p'
+binding='<Alt>Left'
+name='variety previous'
+
+[custom35]
+action='caja --no-desktop /home/erik'
+binding='<Shift><Mod4>Return'
+name='caja'
+
+[custom5]
+action='mate-terminal'
+binding='<Primary><Alt>t'
+name='mate-terminal'
