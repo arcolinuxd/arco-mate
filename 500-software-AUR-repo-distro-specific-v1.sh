@@ -16,7 +16,6 @@ set -e
 echo "AUR - DESKTOP SPECIFIC APPLICATIONS "
 
 
-
 sh AUR-DS/install-mate-tweak-v1.sh
 sh AUR-DS/install-brisk-menu-v1.sh
 sh AUR-DS/install-mate-menu-v1.sh

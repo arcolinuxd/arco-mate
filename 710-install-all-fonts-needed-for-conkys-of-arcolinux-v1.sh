@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+#set -e
 ##################################################################################################################
 # Author 	: 	Erik Dubois
 # Website : https://www.erikdubois.be
@@ -13,35 +13,20 @@ set -e
 #
 ##################################################################################################################
 
-# software from AUR (Arch User Repositories)
-# https://aur.archlinux.org/packages/
 
-echo "DESKTOP SPECIFIC APPLICATIONS"
+[ -d $HOME"/.fonts" ] || mkdir -p $HOME"/.fonts"
 
-echo "Installing category Accessories"
 
-echo "Installing category Development"
+echo "Copy fonts to .fonts"
 
-echo "Installing category Education"
+cp Personal/settings/fonts/* ~/.fonts/
 
-echo "Installing category Games"
+echo "Building new fonts into the cache files";
+echo "Depending on the number of fonts, this may take a while..."
+fc-cache -fv ~/.fonts
 
-echo "Installing category Graphics"
 
-echo "Installing category Internet"
-
-echo "Installing category Multimedia"
-
-sh AUR/install-mpd-ncmpcpp-v*.sh
-
-echo "Installing category Office"
-
-echo "Installing category Other"
-
-echo "Installing category System"
-
-sudo pacman -S --noconfirm --needed dmenu
 
 echo "################################################################"
-echo "####    Software from Arch Linux Repository installed     ######"
+echo "#########   Fonts have been copied and loaded   ################"
 echo "################################################################"
