@@ -16,8 +16,6 @@ gsettings set org.mate.Marco.general compositing-manager true
 
 gsettings set org.mate.Marco.general center-new-windows true
 
-gsettings set org.mate.Marco.general side-by-side-tiling true
-
 gsettings set org.mate.background show-desktop-icons true
 
 gsettings set org.mate.caja.desktop computer-icon-visible false
