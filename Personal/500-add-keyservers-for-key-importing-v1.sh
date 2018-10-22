@@ -18,7 +18,10 @@ echo '
 
 keyserver hkp://pool.sks-keyservers.net:80
 keyserver hkps://hkps.pool.sks-keyservers.net:443
-keyserver hkp://ipv4.pool.sks-keyservers.net:11371' | sudo tee --append ~/.gnupg/gpg.conf
+keyserver hkp://ipv4.pool.sks-keyservers.net:11371' | tee --append ~/.gnupg/gpg.conf
+
+chmod 600 ~/.gnupg/gpg.conf
+chmod 700 ~/.gnupg
 
 echo "################################################################"
 echo "###                  keyservers added                       ####"
