@@ -50,16 +50,16 @@ lightdm
 arcolinux-lightdm-gtk-greeter
 arcolinux-lightdm-gtk-greeter-settings
 arcolinux-wallpapers-git
+thunar
+thunar-archive-plugin
+thunar-volman
+xfce4-terminal
 mate
 mate-extra
 mate-tweak
 arcolinux-mate-git
 arcolinux-config-mate-git
 arcolinux-mate-dconf-git
-thunar
-thunar-archive-plugin
-thunar-volman
-xfce4-terminal
 )
 
 count=0
