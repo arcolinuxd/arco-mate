@@ -59,6 +59,7 @@ arcolinux-mate-dconf-git
 thunar
 thunar-archive-plugin
 thunar-volman
+xfce4-terminal
 )
 
 count=0
