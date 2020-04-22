@@ -52,6 +52,7 @@ arcolinux-lightdm-gtk-greeter-settings
 arcolinux-wallpapers-git
 mate
 mate-extra
+mate-tweak
 arcolinux-mate-git
 arcolinux-config-mate-git
 arcolinux-mate-dconf-git
