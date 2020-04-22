@@ -57,8 +57,6 @@ func_category Additional-distro-specific
 list=(
 dmenu
 imagemagick
-paprefs
-pasystray
 w3m
 hardcode-fixer-git
 )
