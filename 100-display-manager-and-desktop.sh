@@ -52,9 +52,9 @@ arcolinux-lightdm-gtk-greeter-settings
 arcolinux-wallpapers-git
 mate
 mate-extra
-arcolinux-xfce-git
-arcolinux-config-xfce-git
-arcolinux-xfce-dconf-git
+arcolinux-mate-git
+arcolinux-config-mate-git
+arcolinux-mate-dconf-git
 thunar
 thunar-archive-plugin
 thunar-volman
