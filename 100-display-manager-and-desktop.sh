@@ -57,9 +57,6 @@ xfce4-terminal
 mate
 mate-extra
 mate-tweak
-arcolinux-mate-git
-arcolinux-config-mate-git
-arcolinux-mate-dconf-git
 )
 
 count=0
