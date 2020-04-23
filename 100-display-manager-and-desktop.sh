@@ -51,12 +51,6 @@ lightdm
 arcolinux-lightdm-gtk-greeter
 arcolinux-lightdm-gtk-greeter-settings
 arcolinux-wallpapers-git
-thunar
-thunar-archive-plugin
-thunar-volman
-xfce4-terminal
-arcolinux-xfce-git
-arcolinux-local-xfce4-git
 mate
 mate-extra
 mate-tweak
@@ -71,12 +65,6 @@ for name in "${list[@]}" ; do
 done
 
 ###############################################################################
-
-tput setaf 6;echo "################################################################"
-echo "Copying all files and folders from /etc/skel to ~"
-echo "################################################################"
-echo;tput sgr0
-cp -rT /etc/skel ~
 
 tput setaf 5;echo "################################################################"
 echo "Enabling lightdm as display manager"

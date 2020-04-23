@@ -58,6 +58,12 @@ list=(
 arcolinux-config-mate-git
 arcolinux-mate-dconf-git
 arcolinux-mate-git
+thunar
+thunar-archive-plugin
+thunar-volman
+xfce4-terminal
+arcolinux-xfce-git
+arcolinux-local-xfce4-git
 )
 
 count=0
